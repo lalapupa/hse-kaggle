@@ -1,4 +1,4 @@
-arrow==0.14.3
+arrow==0.15.1
 cycler==0.10.0
 joblib==0.13.2
 kiwisolver==1.1.0
